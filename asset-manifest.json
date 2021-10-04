@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/win2win/static/css/main.a87bbdd1.chunk.css",
+    "main.js": "/win2win/static/js/main.15f2ee04.chunk.js",
+    "main.js.map": "/win2win/static/js/main.15f2ee04.chunk.js.map",
+    "runtime-main.js": "/win2win/static/js/runtime-main.c5dbaa2e.js",
+    "runtime-main.js.map": "/win2win/static/js/runtime-main.c5dbaa2e.js.map",
+    "static/js/2.0e4ce63a.chunk.js": "/win2win/static/js/2.0e4ce63a.chunk.js",
+    "static/js/2.0e4ce63a.chunk.js.map": "/win2win/static/js/2.0e4ce63a.chunk.js.map",
+    "static/js/3.65371373.chunk.js": "/win2win/static/js/3.65371373.chunk.js",
+    "static/js/3.65371373.chunk.js.map": "/win2win/static/js/3.65371373.chunk.js.map",
+    "index.html": "/win2win/index.html",
+    "static/css/main.a87bbdd1.chunk.css.map": "/win2win/static/css/main.a87bbdd1.chunk.css.map",
+    "static/js/2.0e4ce63a.chunk.js.LICENSE.txt": "/win2win/static/js/2.0e4ce63a.chunk.js.LICENSE.txt",
+    "static/media/Rectangle16.e0129aa7.png": "/win2win/static/media/Rectangle16.e0129aa7.png",
+    "static/media/Rectangle17.bb50a9e5.png": "/win2win/static/media/Rectangle17.bb50a9e5.png",
+    "static/media/arrow2logo.4cbeb33b.svg": "/win2win/static/media/arrow2logo.4cbeb33b.svg",
+    "static/media/arrow3logo.78245afb.svg": "/win2win/static/media/arrow3logo.78245afb.svg",
+    "static/media/arrowlogo.32494177.svg": "/win2win/static/media/arrowlogo.32494177.svg",
+    "static/media/belllogo.b755a1bc.svg": "/win2win/static/media/belllogo.b755a1bc.svg",
+    "static/media/cashlogo.40c82643.svg": "/win2win/static/media/cashlogo.40c82643.svg",
+    "static/media/cashlogo2.62e38ba2.svg": "/win2win/static/media/cashlogo2.62e38ba2.svg",
+    "static/media/competitioneventbtnlogo.0efc741c.svg": "/win2win/static/media/competitioneventbtnlogo.0efc741c.svg",
+    "static/media/homebtnlogo.f116be52.svg": "/win2win/static/media/homebtnlogo.f116be52.svg",
+    "static/media/locatlogo.bf403a59.svg": "/win2win/static/media/locatlogo.bf403a59.svg",
+    "static/media/ppllogo.30f09213.svg": "/win2win/static/media/ppllogo.30f09213.svg",
+    "static/media/randomeventbtnlogo.6d9883bf.svg": "/win2win/static/media/randomeventbtnlogo.6d9883bf.svg",
+    "static/media/specialeventbtnlogo.6a8db646.svg": "/win2win/static/media/specialeventbtnlogo.6a8db646.svg",
+    "static/media/timelogo.28afaaf3.svg": "/win2win/static/media/timelogo.28afaaf3.svg",
+    "static/media/userlogo.8d960674.svg": "/win2win/static/media/userlogo.8d960674.svg",
+    "static/media/w2wLogo.e15be41d.svg": "/win2win/static/media/w2wLogo.e15be41d.svg",
+    "static/media/w2whomelogo.4c742249.svg": "/win2win/static/media/w2whomelogo.4c742249.svg",
+    "static/media/walletbtnlogo.337de5f3.svg": "/win2win/static/media/walletbtnlogo.337de5f3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5dbaa2e.js",
+    "static/js/2.0e4ce63a.chunk.js",
+    "static/css/main.a87bbdd1.chunk.css",
+    "static/js/main.15f2ee04.chunk.js"
+  ]
+}
