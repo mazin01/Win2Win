@@ -1,4 +1,3 @@
-import "./index.css";
 import React, { useState } from "react";
 import Signin from "./components/signin";
 import { Link } from "react-router-dom"
@@ -31,6 +30,13 @@ function App() {
     userName: "gdfs124",
     password: "P@$$w0rd",
   }
+      // to logout reset the details to noting
+    const logout = () => {
+      setUser({ email: "" })
+  }
+
+
+  // --------- 3-if the details matched the existing user details go to the home page if not show error --------------------
 
   const [user, setUser] = useState({email: "", password: "", fullName:"", phoneNumber:""});
   const [error, setError] = useState("")
@@ -46,13 +52,9 @@ function App() {
     }
   }
 
-  const logout = () => {
-      setUser({ email: "" })
-  }
-
   return (
     <div className="App">
-      <p>{console.log(config)}</p>
+      <p>{}</p>
       {(user.email != "") ? (
         <HomePage user={user} logout={logout} />
       ) : (

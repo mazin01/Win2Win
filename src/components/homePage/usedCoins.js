@@ -4,6 +4,7 @@ import cashlogo from "../imges/cashlogo.svg"
 
 const UsedCoins = () => {
     
+// ------------------------------------------------------the styling(start)------------------------------------------------------
     const Container = styled.div`
         grid-area: main;
         width: 100%;
@@ -53,6 +54,7 @@ const UsedCoins = () => {
             }
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>

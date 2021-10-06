@@ -4,6 +4,7 @@ import userlogo from "../imges/userlogo.svg"
 
 const SubsCounter = () => {
 
+// ------------------------------------------------------the styling(start)------------------------------------------------------
     const Container = styled.div`
         height: 135px;
         width: 426px;
@@ -38,6 +39,7 @@ const SubsCounter = () => {
             color: #000000;
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>

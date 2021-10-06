@@ -10,6 +10,8 @@ import w2whomelogo from "../imges/w2whomelogo.svg"
 
 const SideBar = () => {
 
+// ------------------------------------------------------the styling(start)------------------------------------------------------
+
     const Container = styled.div`
         background: #FCFCFC;
         border: 1px solid rgba(171, 171, 171, 0.1);
@@ -120,6 +122,7 @@ const SideBar = () => {
             -webkit-text-fill-color: transparent;
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>

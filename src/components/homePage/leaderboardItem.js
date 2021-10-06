@@ -4,6 +4,7 @@ import Rectangle17 from "../imges/Rectangle17.png"
 
 const LeaderboardItem = () => {
     
+// ------------------------------------------------------the styling(start)------------------------------------------------------
     const Container = styled.div`
         display: flex;
         flex-direction: column;
@@ -43,6 +44,7 @@ const LeaderboardItem = () => {
             line-height: 5px;
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>

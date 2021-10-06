@@ -6,6 +6,7 @@ import Rectangle21 from "../imges/Rectangle21.png"
 
 const NotificationBar = ( logout ) => {
     
+// ------------------------------------------------------the styling(start)------------------------------------------------------
     const Container = styled.div`
         width: 412px;
         height: 71px;
@@ -97,6 +98,7 @@ const NotificationBar = ( logout ) => {
             } 
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>

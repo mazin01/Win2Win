@@ -9,6 +9,7 @@ import Rectangle16 from "../imges/Rectangle16.png"
 
 const Event = () => {
 
+// ------------------------------------------------------the styling(start)------------------------------------------------------
     const Container = styled.div`
         grid-area: main;
         display: flex;
@@ -53,6 +54,7 @@ const Event = () => {
             border: 1px solid #EAEAEA;
         }
     `
+// ------------------------------------------------------the styling(end)------------------------------------------------------
 
     return (
         <Container>
